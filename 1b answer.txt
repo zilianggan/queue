@@ -1,0 +1,1 @@
+b. I think can use the linked list function if not using array methods because it does not limit the size of the list.
